@@ -1,0 +1,41 @@
+[04-Dec-2025 09:37:24 Europe/Lisbon] DB Error: Nenhuma ligação pôde ser feita porque o computador de destino
+as recusou ativamente
+[11-Dec-2025 10:31:12 Europe/Lisbon] DB Error: Access denied for user 'root'@'localhost' (using password: NO)
+[11-Dec-2025 10:33:31 Europe/Lisbon] DB Error: Access denied for user 'root'@'localhost' (using password: NO)
+[11-Dec-2025 10:33:36 Europe/Lisbon] DB Error: Access denied for user 'root'@'localhost' (using password: NO)
+[11-Dec-2025 10:34:46 Europe/Lisbon] DB Error: Access denied for user 'root'@'localhost' (using password: NO)
+[11-Dec-2025 10:34:55 Europe/Lisbon] DB Error: Access denied for user 'root'@'localhost' (using password: NO)
+[11-Dec-2025 10:35:15 Europe/Lisbon] DB Error: Access denied for user 'root'@'localhost' (using password: NO)
+[11-Dec-2025 10:35:48 Europe/Lisbon] PHP Fatal error:  Cannot redeclare get_current_user() in C:\xampp\htdocs\saw\includes\auth.php on line 143
+[11-Dec-2025 10:36:17 Europe/Lisbon] PHP Fatal error:  Cannot redeclare get_current_user() in C:\xampp\htdocs\saw\includes\auth.php on line 143
+[11-Dec-2025 10:36:32 Europe/Lisbon] PHP Fatal error:  Cannot redeclare get_current_user() in C:\xampp\htdocs\saw\includes\auth.php on line 143
+[11-Dec-2025 10:48:13 Europe/Lisbon] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\saw\public_html\user\perfil.php:116
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\saw\public_html\user\perfil.php on line 116
+[11-Dec-2025 10:49:47 Europe/Lisbon] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\saw\public_html\user\perfil.php:116
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\saw\public_html\user\perfil.php on line 116
+[11-Dec-2025 10:52:48 Europe/Lisbon] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\saw\public_html\user\perfil.php:116
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\saw\public_html\user\perfil.php on line 116
+[11-Dec-2025 10:56:52 Europe/Lisbon] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\saw\public_html\admin\perfil.php:111
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\saw\public_html\admin\perfil.php on line 111
+[11-Dec-2025 11:10:52 Europe/Lisbon] PHP Fatal error:  Uncaught Error: Call to undefined function escape_output() in C:\xampp\htdocs\saw\public_html\user\minhas_reservas.php:68
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\saw\public_html\user\minhas_reservas.php on line 68
+[11-Dec-2025 11:28:03 Europe/Lisbon] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\saw\includes\email.php on line 30
+[11-Dec-2025 11:28:03 Europe/Lisbon] Failed to send email to: ricardombl824@gmail.com
+[16-Dec-2025 17:06:21 Europe/Lisbon] PHP Fatal error:  Uncaught Error: Call to undefined function verify_reset_token() in C:\saw\public_html\reset_password.php:25
+Stack trace:
+#0 {main}
+  thrown in C:\saw\public_html\reset_password.php on line 25
+[16-Dec-2025 17:09:52 Europe/Lisbon] PHP Fatal error:  Uncaught Error: Call to undefined function verify_reset_token() in C:\saw\public_html\reset_password.php:25
+Stack trace:
+#0 {main}
+  thrown in C:\saw\public_html\reset_password.php on line 25
